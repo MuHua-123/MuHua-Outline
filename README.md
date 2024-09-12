@@ -12,3 +12,4 @@
 
 #### 安装版本
 * **最新版：** https://github.com/MuHua-123/MuHua-Outline.git?path=Packages/Outline
+* **可选版本：** https://github.com/MuHua-123/MuHua-Outline.git?path=Packages/Outline#0.0.1
